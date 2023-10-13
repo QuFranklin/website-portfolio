@@ -1,7 +1,6 @@
 :root {
     --primary-color: white;
     --secondary-color: black;
-    --background-color-header: rgb(48, 91, 172);
     --display-flex: flex;
     --display-inline-box: inline-block;
     --float-left: left;
@@ -54,7 +53,7 @@ footer {
 
 /* Header */
 .page-header {
-    background-color: var(--background-color-header);
+    background-color: var(--primary-color);
     position: fixed;
     height: 85px;
     top: 0;
@@ -153,10 +152,9 @@ table {
 }
 /* Links styling */
 a {
-    color: var(--primary-color);
+    color: var(--secondary-color);
 }
 a:visited {
-    color: var(--secondary-color);
     opacity: 80%;
 }
 a:hover, a:focus {
