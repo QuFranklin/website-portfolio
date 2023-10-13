@@ -47,7 +47,7 @@ footer {
 
 /* Header */
 .page-header {
-    background-color: rgb(48, 91, 172);
+    background-color: white;
     position: fixed;
     height: 85px;
     top: 0;
@@ -175,10 +175,9 @@ table {
 }
 /* Links styling */
 a {
-    color: white;
+    color: black;
 }
 a:visited {
-    color: black;
     opacity: 80%;
 }
 a:hover {
