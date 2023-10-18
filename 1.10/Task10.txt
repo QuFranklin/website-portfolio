@@ -1,0 +1,7 @@
+Linters used:
+    * HTMLHint
+    * Stylelint
+    * W3C Validator
+
+Issues found during cross-browser testing:
+    None
