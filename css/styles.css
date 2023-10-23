@@ -45,6 +45,7 @@ footer {
 #logo {
     width: 150px;
     float: var(--float-left);
+    padding-bottom: 10px;
 }
 
 
